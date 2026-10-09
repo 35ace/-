@@ -1,0 +1,39 @@
+{
+  "MatlabVersion": "25.1.0.2943329 (R2025a)",
+  "SampleTime_s": 0.02,
+  "Duration_s": 120,
+  "MonteCarloCount": 30,
+  "RandomSeed": 2.0261009E+7,
+  "DisturbanceEquilibrium": [
+    0,
+    0,
+    -0.10922744339515303,
+    -2.4697450168316752E-17,
+    -0.084196154283763813
+  ],
+  "DOBFeedforward": -1.1450934640203814,
+  "PitchDesignLimit_deg": 10,
+  "PitchPredictionLimit_deg": 8,
+  "PredictionHorizon_s": 12,
+  "GovernorPeriod_s": 0.2,
+  "DOBBandwidth_rad_s": 1.5,
+  "AntiWindupGain_per_s": 2,
+  "SafetyPitchLimit_deg": 6.0000000000000009,
+  "SafetyLambda_per_s": 2,
+  "MonteCarloParameterSeed": 2.0262009E+7,
+  "MonteCarloNoiseSeedBase": 2000,
+  "NominalClosedLoopPolesReal": [
+    -3.766553959221004,
+    -3.766553959221004,
+    -0.43512241440683047,
+    -0.841550014381186,
+    -0.841550014381186
+  ],
+  "NominalClosedLoopPolesImag": [
+    0.57683156386242751,
+    -0.57683156386242751,
+    0,
+    0.76748952576792218,
+    -0.76748952576792218
+  ]
+}

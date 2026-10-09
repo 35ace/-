@@ -1,0 +1,5 @@
+__pycache__/
+tmp/
+output/qa/
+output/**/*.mat
+output/**/analysis-log.txt
